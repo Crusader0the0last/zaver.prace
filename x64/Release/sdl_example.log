@@ -1,0 +1,9 @@
+﻿  Source.c
+C:\Users\User\source\repos\sdl_example\sdl_example\Source.c(7,12): warning C4026: function declared with formal parameter list
+C:\Users\User\source\repos\sdl_example\sdl_example\Source.c(9,5): warning C4013: 'srand' undefined; assuming extern returning int
+C:\Users\User\source\repos\sdl_example\sdl_example\Source.c(42,15): warning C4013: 'rand' undefined; assuming extern returning int
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  sdl_example.vcxproj -> C:\Users\User\source\repos\sdl_example\x64\Release\sdl_example.exe
